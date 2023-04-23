@@ -14,8 +14,8 @@ Contact Me
 
 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,livewire,api,git,ajax,mysql,js,jquery,html,css,bootstrap,less,sass,seo&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,livewire,api,git,ajax,mysql,js,jquery,html,css,bootstrap,less,sass,seo&theme=light)](https://mrsadiq.info)
 
 Software & Services
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,stackoverflow,cloudflare,linux&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,stackoverflow,cloudflare,linux&theme=light)]([https://skillicons.dev](https://mrsadiq.info))
