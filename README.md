@@ -7,7 +7,7 @@ Contact Me
 
 <a href="https://www.linkedin.com/in/sadiq-memmedov/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:sadiqmemmedov93@mail.ru" target="_blank"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>&nbsp;&nbsp;
-<a href="https://mrsadiq.info" target="_blank"><img src="[https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)" alt="Website"/></a>&nbsp;&nbsp;
+<a href="https://mrsadiq.info" target="_blank"><img src="[[https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)" alt="Website"/></a>&nbsp;&nbsp;
 
 # 🛠 &nbsp;Tech Stack
 
