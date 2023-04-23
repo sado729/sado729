@@ -1,7 +1,7 @@
 # Sadiq Mammadov
 
 Hi, My name is Sadiq Mammadov!
-I'm a Full Stack Developer . I develop websites as a web developer and I love my job💙.
+I'm a Full Stack Developer and love my job 💙
 
 I have been involved in the ordering of websites since the years of my education. I have 10+ year experience working as the part of a team and individually. I'm always energetic and eager to learn new skills and a big lover of PHP and Laravel framework. This experience has given me the ability to develop the client's idea and turn it into a successful project, along with mastering the professional solutions of site orders. This allows us to provide the customer with the highest quality of service, keeping customer satisfaction as a priority.
 
